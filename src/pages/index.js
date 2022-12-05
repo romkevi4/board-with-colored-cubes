@@ -1,4 +1,5 @@
 import { board, colors, MIN, MAX } from '../utils/constants.js';
+import './index.css';
 
 
 let squaresNumber;
