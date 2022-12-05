@@ -1,0 +1,13 @@
+.square {
+  margin: 2px;
+  width: 16px;
+  height: 16px;
+
+  background: #1d1d1d;
+  box-shadow: 0 0 2px #000;
+  transition: 2.5s ease-out;
+}
+
+.square:hover {
+  transition-duration: 0s;
+}
